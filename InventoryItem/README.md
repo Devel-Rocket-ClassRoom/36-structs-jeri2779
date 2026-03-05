@@ -5,7 +5,9 @@
 **요구사항:**
 
 1. `InventoryItem` 구조체를 정의하세요.
-   - `Name` (string), `Weight` (double), `Price` (int) 필드
+   - `Name` (string), 
+	- `Weight` (double), 
+	- `Price` (int) 필드
    - 세 값을 받아 초기화하는 생성자
 
 2. 5개의 아이템 배열을 생성하세요.
